@@ -192,7 +192,7 @@ We believe in the power of collaboration and welcome contributions from all memb
 
 ## 👥 Team.
 
-- Samuel Tosin
+- Jipred Tosin
 
 ## 👨🏽‍🍳 Developer Resources.
 
